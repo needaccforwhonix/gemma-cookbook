@@ -1,0 +1,4848 @@
+[
+  {
+    "file": "CONTRIBUTING.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".allstar/binary_artifacts.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Finetune_with_CALM.ipynb",
+    "dependencies": [
+      "sys",
+      "userdata",
+      "calm",
+      "Sequence",
+      "the",
+      "app",
+      "torch",
+      "google.colab",
+      "transformers",
+      "flags",
+      "model",
+      "datasets",
+      "collections.abc",
+      "absl",
+      "logging",
+      "AutoTokenizer",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_Gemini_and_Gemma_with_RouteLLM.ipynb",
+    "dependencies": [
+      "userdata",
+      "routellm.controller",
+      "time",
+      "google.colab",
+      "subprocess",
+      "Controller",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_Mesop.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "google.colab",
+      "mesop",
+      "mesop.labs",
+      "keras",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]RAG_with_EmbeddingGemma.ipynb",
+    "dependencies": [
+      "huggingface_hub",
+      "torch",
+      "SentenceTransformer",
+      "transformers",
+      "pipeline",
+      "login",
+      "sentence_transformers"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Keras_Quickstart_Chat.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "Markdown",
+      "google.colab",
+      "keras",
+      "IPython.display",
+      "textwrap",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]Using_with_OneTwo.ipynb",
+    "dependencies": [
+      "userdata",
+      "llm",
+      "kagglehub",
+      "ot",
+      "onetwo",
+      "auth",
+      "google.colab",
+      "onetwo.backends",
+      "gemma_local",
+      "onetwo.builtins",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Visual_Document_Extraction_to_JSON.ipynb",
+    "dependencies": [
+      "huggingface_hub",
+      "Image",
+      "PIL",
+      "torch",
+      "transformers",
+      "json",
+      "pipeline",
+      "login"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]data_parallel_inference_in_jax_tpu.ipynb",
+    "dependencies": [
+      "userdata",
+      "flax",
+      "jax.numpy",
+      "shard",
+      "FlaxGemmaForCausalLM",
+      "transformers",
+      "google.colab",
+      "flax.training.common_utils",
+      "numpy",
+      "jax_utils",
+      "jax",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3n]Using_with_Transformersjs.ipynb",
+    "dependencies": [
+      "wavefile",
+      "Image",
+      "PIL",
+      "Audio",
+      "IPython.display",
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "success"
+  },
+  {
+    "file": "Gemma/[Gemma_3n]MatFormer_Lab.ipynb",
+    "dependencies": [
+      "safe_open",
+      "transformers",
+      "json",
+      "AutoModelForCausalLM",
+      "safetensors",
+      "gc",
+      "save_file",
+      "HfApi",
+      "pandas",
+      "ast",
+      "notebook_login",
+      "tqdm",
+      "re",
+      "os",
+      "torch",
+      "AutoConfig",
+      "safetensors.torch",
+      "huggingface_hub",
+      "snapshot_download",
+      "ModelCard",
+      "tqdm.auto"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "success"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Finetune_with_Function_Calling.ipynb",
+    "dependencies": [
+      "sys",
+      "userdata",
+      "Dataset",
+      "torch_xla.runtime",
+      "LoraConfig",
+      "torch",
+      "UserSecretsClient",
+      "torch_xla.core.xla_model",
+      "google.colab",
+      "SFTTrainer",
+      "transformers",
+      "trl",
+      "pandas",
+      "kaggle_secrets",
+      "peft",
+      "torch_xla",
+      "datasets",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_SGLang.ipynb",
+    "dependencies": [
+      "userdata",
+      "Engine",
+      "google.colab",
+      "json",
+      "requests",
+      "sglang",
+      "sglang.utils",
+      "function",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Local_Agentic_RAG.ipynb",
+    "dependencies": [
+      "Agent",
+      "qdrant_client.http.exceptions",
+      "UnexpectedResponse",
+      "qdrant_client.http.models",
+      "Distance",
+      "WebBaseLoader",
+      "agno.agent",
+      "FastEmbedEmbeddings",
+      "QdrantVectorStore",
+      "RecursiveCharacterTextSplitter",
+      "qdrant_client",
+      "langchain_community.embeddings.fastembed",
+      "langchain_text_splitters",
+      "ollama",
+      "Ollama",
+      "langchain_community.document_loaders",
+      "langchain_qdrant",
+      "agno.models.ollama",
+      "QdrantClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]Finetune_with_LLaMA_Factory.ipynb",
+    "dependencies": [
+      "userdata",
+      "llamafactory.chat",
+      "google.colab",
+      "json",
+      "torch_gc",
+      "ChatModel",
+      "llamafactory.extras.misc",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Game_Design_Brainstorming.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "Markdown",
+      "google.colab",
+      "keras",
+      "IPython.display",
+      "os",
+      "textwrap"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Function_Calling_with_Groq_Langchain.ipynb",
+    "dependencies": [
+      "userdata",
+      "re",
+      "initialize_agent",
+      "Tool",
+      "google.colab",
+      "langchain.tools",
+      "langchain.agents",
+      "ChatGroq",
+      "langchain_groq",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Translator_of_Old_Korean_Literature.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "keras_nlp",
+      "time",
+      "google.colab",
+      "matplotlib.pyplot",
+      "keras",
+      "datasets",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Custom_Vocabulary.ipynb",
+    "dependencies": [
+      "userdata",
+      "re",
+      "keras_nlp",
+      "time",
+      "random",
+      "google.colab",
+      "matplotlib.pyplot",
+      "keras",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Synthetic_data_generation.ipynb",
+    "dependencies": [
+      "sys",
+      "userdata",
+      "TextGeneration",
+      "typing",
+      "TransformersLLM",
+      "google.colab",
+      "json",
+      "distilabel.llms",
+      "distilabel.steps.tasks",
+      "pandas",
+      "Pipeline",
+      "List",
+      "distilabel.pipeline",
+      "LoadDataFromHub",
+      "IPython.display",
+      "display",
+      "distilabel.steps",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]LangChain_chaining.ipynb",
+    "dependencies": [
+      "ConstitutionalChain",
+      "GenerationChunk",
+      "CallbackManagerForLLMRun",
+      "LLM",
+      "LangChain",
+      "userdata",
+      "sampler",
+      "google.colab",
+      "transformer",
+      "Any",
+      "langchain_core.language_models.llms",
+      "sentencepiece",
+      "langchain_core.prompts",
+      "langchain_core.callbacks.manager",
+      "os",
+      "kagglehub",
+      "langchain.chains.llm",
+      "params",
+      "PromptTemplate",
+      "LLMChain",
+      "typing",
+      "langchain.chains.constitutional_ai.base",
+      "gemma",
+      "langchain_core.outputs"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Deploy_with_vLLM.ipynb",
+    "dependencies": [
+      "LLM",
+      "vllm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_Firebase_Genkit_and_Ollama.ipynb",
+    "dependencies": [
+      "userdata",
+      "time",
+      "google.colab.output",
+      "gradio",
+      "json",
+      "eval_js",
+      "google.colab",
+      "files",
+      "subprocess",
+      "requests",
+      "path",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]on_Groq.ipynb",
+    "dependencies": [
+      "userdata",
+      "google.colab",
+      "groq",
+      "Groq",
+      "openai",
+      "OpenAI"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_Xinference.ipynb",
+    "dependencies": [
+      "ipywidgets",
+      "RESTfulClient",
+      "time",
+      "xinference.client"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Finetune_with_LORA.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "tensorflow",
+      "Dataset",
+      "locale",
+      "LoraConfig",
+      "gc",
+      "torch",
+      "transformers",
+      "google.colab",
+      "SFTTrainer",
+      "trl",
+      "pandas",
+      "peft",
+      "PeftModel",
+      "datasets",
+      "AutoTokenizer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_Elasticsearch_and_LangChain.ipynb",
+    "dependencies": [
+      "langchain_elasticsearch",
+      "langchain",
+      "langchain_core.output_parsers",
+      "hub",
+      "ElasticsearchStore",
+      "langchain.text_splitter",
+      "elasticsearch",
+      "userdata",
+      "google.colab",
+      "langchain_ollama.chat_models",
+      "os",
+      "langchain_huggingface",
+      "time",
+      "HuggingFaceEmbeddings",
+      "RecursiveCharacterTextSplitter",
+      "RunnablePassthrough",
+      "langchain_core.runnables",
+      "typing",
+      "BaseTransformOutputParser",
+      "ChatOllama",
+      "Dict",
+      "Elasticsearch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Finetune_with_LitGPT.ipynb",
+    "dependencies": [
+      "userdata",
+      "litgpt",
+      "time",
+      "torch",
+      "google.colab",
+      "transformers",
+      "subprocess",
+      "AutoModel",
+      "requests",
+      "os",
+      "prompts"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Gradio_LlamaCpp_Chatbot.ipynb",
+    "dependencies": [
+      "llama_cpp_agent",
+      "llama_cpp",
+      "Llama",
+      "List",
+      "userdata",
+      "llama_cpp_agent.messages_formatter",
+      "google.colab",
+      "llama_cpp_agent.chat_history.messages",
+      "login",
+      "hf_hub_download",
+      "LlamaCppPythonProvider",
+      "MessagesFormatter",
+      "os",
+      "llama_cpp_agent.chat_history",
+      "Roles",
+      "gradio",
+      "llama_cpp_agent.providers",
+      "huggingface_hub",
+      "BasicChatHistory",
+      "typing",
+      "LlamaCppAgent"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]In-context_Learning.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "kagglehub",
+      "time",
+      "google.colab",
+      "datasets",
+      "gemma",
+      "os",
+      "gm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]RAG_LlamaIndex.ipynb",
+    "dependencies": [
+      "userdata",
+      "Settings",
+      "llama_index.core.llms",
+      "keras_nlp",
+      "llama_index.embeddings.instructor",
+      "typing",
+      "google.colab",
+      "llama_index.core",
+      "InstructorEmbedding",
+      "keras",
+      "llama_index.core.node_parser",
+      "llama_index.core.llms.callbacks",
+      "SentenceSplitter",
+      "Optional",
+      "llm_completion_callback",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_LocalGemma.ipynb",
+    "dependencies": [
+      "userdata",
+      "google.colab",
+      "transformers",
+      "local_gemma",
+      "LocalGemma2ForCausalLM",
+      "AutoTokenizer",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_LlamaCpp.ipynb",
+    "dependencies": [
+      "userdata",
+      "huggingface_hub",
+      "llama_cpp",
+      "google.colab",
+      "login",
+      "Llama",
+      "hf_hub_download",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Prompt_chaining.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "google.colab",
+      "keras",
+      "IPython.display",
+      "display",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_Langfun_and_LlamaCpp.ipynb",
+    "dependencies": [
+      "userdata",
+      "huggingface_hub",
+      "langfun",
+      "typing",
+      "Literal",
+      "google.colab",
+      "login",
+      "pyglove",
+      "hf_hub_download",
+      "google.colab.output",
+      "Optional",
+      "os",
+      "eval_js"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Using_with_Transformersjs.ipynb",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_mistral_rs.ipynb",
+    "dependencies": [
+      "userdata",
+      "CompletionRequest",
+      "google.colab",
+      "Runner",
+      "mistralrs",
+      "ChatCompletionRequest",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Function_Calling_Routing_and_Monitoring_using_Gemma_Google_Genai.ipynb",
+    "dependencies": [
+      "langgraph.graph",
+      "langchain_community.embeddings",
+      "StateGraph",
+      "track",
+      "DuckDuckGoSearchRun",
+      "langchain_community.document_loaders.generic",
+      "langchain_community.tools",
+      "redirect_stdout",
+      "userdata",
+      "contextlib",
+      "google.colab",
+      "google",
+      "TypedDict",
+      "os",
+      "FastEmbedEmbeddings",
+      "uuid",
+      "genai",
+      "FastEmbedSparse",
+      "qdrant_client",
+      "FileSystemBlobLoader",
+      "opik",
+      "io",
+      "GenericLoader",
+      "PyPDFium2Parser",
+      "uuid4",
+      "langchain_qdrant",
+      "langchain_community.document_loaders",
+      "typing",
+      "QdrantClient",
+      "langchain_community.document_loaders.parsers"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Deploy_in_Vertex_AI.ipynb",
+    "dependencies": [
+      "json_format",
+      "typing",
+      "Value",
+      "google.protobuf.struct_pb2",
+      "Dict",
+      "aiplatform",
+      "google.protobuf",
+      "google.cloud"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Finetune_with_Unsloth.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "is_bfloat16_supported",
+      "unsloth",
+      "torch",
+      "FastLanguageModel",
+      "TextStreamer",
+      "google.colab",
+      "transformers",
+      "SFTTrainer",
+      "trl",
+      "pandas",
+      "datasets",
+      "data_table",
+      "TrainingArguments",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Agentic_AI.ipynb",
+    "dependencies": [
+      "userdata",
+      "google.colab",
+      "keras",
+      "keras_hub",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Using_with_Ollama_Python_Inference_with_Images.ipynb",
+    "dependencies": [
+      "chat",
+      "ollama",
+      "asyncio",
+      "google.colab.patches",
+      "AsyncClient",
+      "cv2_imshow",
+      "cv2",
+      "nest_asyncio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_Ollama_Python.ipynb",
+    "dependencies": [
+      "chat",
+      "ollama",
+      "asyncio",
+      "generate",
+      "markdown",
+      "AsyncClient",
+      "nest_asyncio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]Minimal_RAG.ipynb",
+    "dependencies": [
+      "google_labs_html_chunker.html_chunker",
+      "bitsandbytes",
+      "unisim",
+      "torch",
+      "HtmlChunker",
+      "TextSim",
+      "transformers",
+      "urlopen",
+      "pandas",
+      "AutoTokenizer",
+      "urllib.request"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]Basics_with_HF.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "huggingface_hub",
+      "LoraConfig",
+      "torch",
+      "transformers",
+      "google.colab",
+      "SFTTrainer",
+      "trl",
+      "login",
+      "peft",
+      "datasets",
+      "AutoTokenizer",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Full_Model_Finetune_using_HF.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "re",
+      "huggingface_hub",
+      "random",
+      "torch",
+      "SFTConfig",
+      "google.colab",
+      "transformers",
+      "SFTTrainer",
+      "pipeline",
+      "login",
+      "matplotlib.pyplot",
+      "trl",
+      "drive",
+      "datasets",
+      "AutoTokenizer",
+      "randint"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Inference_images_and_videos.ipynb",
+    "dependencies": [
+      "base64",
+      "Image",
+      "b64encode",
+      "torch",
+      "Markdown",
+      "PIL",
+      "transformers",
+      "IPython.display",
+      "requests",
+      "AutoProcessor",
+      "cv2"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Keras_Quickstart.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "google.colab",
+      "keras",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]Finetune_with_XTuner.ipynb",
+    "dependencies": [
+      "userdata",
+      "transformers",
+      "google.colab",
+      "AutoModel",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Smart_Contract_Auditing.ipynb",
+    "dependencies": [
+      "userdata",
+      "torch",
+      "Markdown",
+      "google.colab",
+      "transformers",
+      "IPython.display",
+      "AutoTokenizer",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Finetune_with_Axolotl.ipynb",
+    "dependencies": [
+      "userdata",
+      "yaml",
+      "google.colab",
+      "transformers",
+      "AutoModel",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Meme_Generator.ipynb",
+    "dependencies": [
+      "userdata",
+      "io",
+      "kagglehub",
+      "re",
+      "Image",
+      "PIL",
+      "google.colab",
+      "ast",
+      "textwrap",
+      "matplotlib.pyplot",
+      "numpy",
+      "requests",
+      "gemma",
+      "os",
+      "gm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Speculative_Decoding.ipynb",
+    "dependencies": [
+      "userdata",
+      "seaborn",
+      "time",
+      "gc",
+      "typing",
+      "torch",
+      "warnings",
+      "google.colab",
+      "json",
+      "transformers",
+      "matplotlib.pyplot",
+      "pandas",
+      "List",
+      "numpy",
+      "AutoModelForCausalLM",
+      "tqdm",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]Finetune_distributed.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "tensorflow",
+      "keras_nlp",
+      "pyplot",
+      "translate",
+      "Markdown",
+      "arrr",
+      "UserSecretsClient",
+      "google.colab",
+      "matplotlib",
+      "keras",
+      "kaggle_secrets",
+      "IPython.display",
+      "textwrap",
+      "datasets",
+      "jax",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3n]Finetuned_LoRA_Unsloth_on_Mental_Health_dataset.ipynb",
+    "dependencies": [
+      "load_dataset",
+      "to",
+      "get_chat_template",
+      "auth",
+      "unsloth",
+      "torch",
+      "TextStreamer",
+      "transformers",
+      "FastModel",
+      "google.colab",
+      "SFTTrainer",
+      "google.cloud",
+      "trl",
+      "unsloth.chat_templates",
+      "train_on_responses_only",
+      "datasets",
+      "aiplatform",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Finetune_with_Torch_XLA.ipynb",
+    "dependencies": [
+      "torch_xla.runtime",
+      "LoraConfig",
+      "transformers",
+      "torch_xla",
+      "sys",
+      "userdata",
+      "UserSecretsClient",
+      "google.colab",
+      "pandas",
+      "kaggle_secrets",
+      "datasets",
+      "os",
+      "torch",
+      "SFTTrainer",
+      "IPython.display",
+      "data_table",
+      "load_dataset",
+      "Markdown",
+      "trl",
+      "all",
+      "peft",
+      "torch_xla.core.xla_model"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]Advanced_Prompting_Techniques.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "time",
+      "typing",
+      "random",
+      "google.colab",
+      "keras",
+      "List",
+      "IPython.display",
+      "datetime",
+      "display",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Function_Calling_with_HF.ipynb",
+    "dependencies": [
+      "io",
+      "DDGS",
+      "torch",
+      "contextlib",
+      "transformers",
+      "duckduckgo_search",
+      "AutoProcessor",
+      "redirect_stdout"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]RAG_PDF_Search_in_multiple_documents_on_Colab.ipynb",
+    "dependencies": [
+      "userdata",
+      "sent_tokenize",
+      "torch",
+      "nltk",
+      "SentenceTransformer",
+      "transformers",
+      "nltk.tokenize",
+      "PyPDF2",
+      "sentence_transformers",
+      "google.colab",
+      "pandas",
+      "numpy",
+      "faiss",
+      "AutoTokenizer",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]evaluation.ipynb",
+    "dependencies": [
+      "lm_eval.api.instance",
+      "Instance",
+      "lm_eval",
+      "Optional",
+      "userdata",
+      "jax.numpy",
+      "sampler",
+      "lm_eval.models",
+      "google.colab",
+      "jinja2",
+      "transformer",
+      "sentencepiece",
+      "lm_eval.api.model",
+      "tqdm",
+      "jax",
+      "os",
+      "kagglehub",
+      "params",
+      "lm_eval.api.registry",
+      "LM",
+      "typing",
+      "register_model",
+      "utils",
+      "Template",
+      "gemma"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Function_Calling_with_HF_document_summarizer.ipynb",
+    "dependencies": [
+      "io",
+      "torch",
+      "contextlib",
+      "transformers",
+      "google.colab",
+      "files",
+      "AutoProcessor",
+      "redirect_stdout",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]for_Japan_using_Transformers_and_PyTorch.ipynb",
+    "dependencies": [
+      "torch",
+      "kagglehub",
+      "AutoTokenizer",
+      "transformers"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Aligning_DPO.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "huggingface_hub",
+      "LoraConfig",
+      "gc",
+      "torch",
+      "transformers",
+      "AutoModelForCausalLM",
+      "google.colab",
+      "trl",
+      "login",
+      "peft",
+      "drive",
+      "datasets",
+      "DPOTrainer",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]Using_with_Ollama.ipynb",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Finetune_with_JORA.ipynb",
+    "dependencies": [
+      "sys",
+      "userdata",
+      "kagglehub",
+      "pathlib",
+      "huggingface_hub",
+      "torch",
+      "snapshot_download",
+      "UserSecretsClient",
+      "google.colab",
+      "transformers",
+      "jora.hf.__main__",
+      "kaggle_secrets",
+      "jora",
+      "AutoTokenizer",
+      "lorize_huggingface",
+      "jax",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_LLM_Comparator.ipynb",
+    "dependencies": [
+      "llm_comparator",
+      "rationale_bullet_generator",
+      "android.content.Intent",
+      "the",
+      "llm_judge_runner",
+      "google.colab",
+      "android.os.Bundle",
+      "vertexai",
+      "your",
+      "rationale_cluster_generator",
+      "comparison",
+      "functionality",
+      "axios",
+      "auth",
+      "random",
+      "stdio.h",
+      "ChatOllama",
+      "langchain_ollama",
+      "androidx.appcompat.app.AppCompatActivity",
+      "model_helper",
+      "iostream"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Constrained_generation.ipynb",
+    "dependencies": [
+      "userdata",
+      "models",
+      "huggingface_hub",
+      "LlamaGrammar",
+      "numpy",
+      "guidance",
+      "google.colab",
+      "login",
+      "Llama",
+      "hf_hub_download",
+      "llama_cpp.llama",
+      "commit_point",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Activation_Hacking.ipynb",
+    "dependencies": [
+      "flax",
+      "colors",
+      "modules",
+      "html",
+      "sys",
+      "nnx",
+      "userdata",
+      "sampler",
+      "google.colab",
+      "transformer",
+      "sentencepiece",
+      "numpy",
+      "HTML",
+      "jax",
+      "os",
+      "kagglehub",
+      "params",
+      "sow_lib",
+      "matplotlib",
+      "IPython.display",
+      "from",
+      "tempfile"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3n]Multimodal_understanding_with_HF.ipynb",
+    "dependencies": [
+      "AudioRecorder",
+      "huggingface_hub",
+      "AutoModelForImageTextToText",
+      "torch",
+      "Audio",
+      "transformers",
+      "google.colab",
+      "IPython.display",
+      "notebook_login",
+      "ipywebrtc",
+      "output"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]Common_use_cases.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "google.colab",
+      "keras",
+      "IPython.display",
+      "textwrap",
+      "display",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3n]Audio_understanding_with_HF.ipynb",
+    "dependencies": [
+      "AudioRecorder",
+      "huggingface_hub",
+      "AutoModelForImageTextToText",
+      "torch",
+      "Audio",
+      "transformers",
+      "google.colab",
+      "IPython.display",
+      "notebook_login",
+      "ipywebrtc",
+      "output"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_Llamafile.ipynb",
+    "dependencies": [
+      "userdata",
+      "sys",
+      "huggingface_hub",
+      "time",
+      "google.colab",
+      "json",
+      "login",
+      "hf_hub_download",
+      "requests",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Gradio_Chatbot.ipynb",
+    "dependencies": [
+      "sys",
+      "userdata",
+      "typing",
+      "torch",
+      "transformers",
+      "gradio",
+      "google.colab",
+      "List",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Guess_the_word.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "google.colab",
+      "keras",
+      "os",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_Langfun_and_LlamaCpp_Python_Bindings.ipynb",
+    "dependencies": [
+      "userdata",
+      "huggingface_hub",
+      "langfun",
+      "typing",
+      "Literal",
+      "langfun.core.llms",
+      "google.colab",
+      "Any",
+      "login",
+      "pyglove",
+      "hf_hub_download",
+      "google.colab.output",
+      "rest",
+      "Optional",
+      "os",
+      "eval_js"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]Inference_on_TPU.ipynb",
+    "dependencies": [
+      "userdata",
+      "kagglehub",
+      "sampler",
+      "params",
+      "google.colab",
+      "transformer",
+      "sentencepiece",
+      "gemma",
+      "jax",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]Using_with_LangChain.ipynb",
+    "dependencies": [
+      "langchain",
+      "langchain_core.output_parsers",
+      "hub",
+      "bs4",
+      "langchain_core.pydantic_v1",
+      "userdata",
+      "ChatPromptTemplate",
+      "langchain_google_vertexai",
+      "langchain.tools.render",
+      "WebBaseLoader",
+      "google.colab",
+      "BaseModel",
+      "operator",
+      "langchain_core.prompts",
+      "langchain_core.tools",
+      "os",
+      "render_text_description",
+      "HuggingFaceEmbeddings",
+      "JsonOutputParser",
+      "StrOutputParser",
+      "RecursiveCharacterTextSplitter",
+      "langchain_huggingface.embeddings",
+      "PromptTemplate",
+      "RunnablePassthrough",
+      "tool",
+      "AgentExecutor",
+      "langchain_core.runnables",
+      "langchain_chroma",
+      "itemgetter",
+      "langchain_text_splitters",
+      "BaseTransformOutputParser",
+      "langchain_community.document_loaders",
+      "Chroma",
+      "langchain.agents",
+      "GemmaChatLocalKaggle"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_1]RAG_with_ChromaDB.ipynb",
+    "dependencies": [
+      "google_labs_html_chunker.html_chunker",
+      "bitsandbytes",
+      "torch",
+      "HtmlChunker",
+      "transformers",
+      "urlopen",
+      "AutoTokenizer",
+      "urllib.request",
+      "chromadb"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_2]DeFi_Protocol_Development.ipynb",
+    "dependencies": [
+      "userdata",
+      "gc",
+      "torch",
+      "Markdown",
+      "google.colab",
+      "transformers",
+      "all",
+      "IPython.display",
+      "AutoTokenizer",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Gemma/[Gemma_3]Chess.ipynb",
+    "dependencies": [
+      "userdata",
+      "re",
+      "kagglehub",
+      "io",
+      "Image",
+      "cairosvg",
+      "BytesIO",
+      "chess",
+      "gemma",
+      "PIL",
+      "google.colab",
+      "contextlib",
+      "chess.svg",
+      "redirect_stdout",
+      "svg2png",
+      "os",
+      "chess.engine",
+      "gm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Workshops/[Gemma_1]Self_extend.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "google.colab",
+      "types",
+      "keras",
+      "MethodType",
+      "ops",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Workshops/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Workshops/jetson-nano.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Workshops/Workshop_How_to_Fine_tuning_Gemma.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "keras_nlp",
+      "time",
+      "google.colab",
+      "matplotlib.pyplot",
+      "keras",
+      "datasets",
+      "jax",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Workshops/Workshop_How_to_Fine_tuning_Gemma_Transformers_Edition.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "get_peft_model",
+      "time",
+      "jax.numpy",
+      "huggingface_hub",
+      "torch",
+      "google.colab",
+      "transformers",
+      "login",
+      "AdamW",
+      "matplotlib.pyplot",
+      "peft",
+      "PeftModel",
+      "AutoModelForCausalLM",
+      "datasets",
+      "torch.nn",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Workshops/[Gemma_2]control_vectors.ipynb",
+    "dependencies": [
+      "userdata",
+      "sklearn.decomposition",
+      "PCA",
+      "Markdown",
+      "google.colab",
+      "json",
+      "keras",
+      "IPython.display",
+      "numpy",
+      "textwrap",
+      "tqdm",
+      "jax",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/gemma_chat.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "Markdown",
+      "google.colab",
+      "keras",
+      "IPython.display",
+      "textwrap",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/recurrentgemma/recurrentgemma_jax_inference.ipynb",
+    "dependencies": [
+      "userdata",
+      "kagglehub",
+      "recurrentgemma",
+      "google.colab",
+      "sentencepiece",
+      "jax",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/recurrentgemma/recurrentgemma_jax_finetune.ipynb",
+    "dependencies": [
+      "userdata",
+      "tensorflow_datasets",
+      "tensorflow",
+      "pathlib",
+      "jax.numpy",
+      "kagglehub",
+      "typing",
+      "recurrentgemma",
+      "optax",
+      "google.colab",
+      "Any",
+      "chex",
+      "enum",
+      "sentencepiece",
+      "functools",
+      "jax",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/capabilities/vision/video-understanding.ipynb",
+    "dependencies": [
+      "huggingface_hub",
+      "torch",
+      "transformers",
+      "login",
+      "AutoProcessor",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/paligemma/inference-with-keras.ipynb",
+    "dependencies": [
+      "userdata",
+      "io",
+      "re",
+      "sys",
+      "matplotlib.patches",
+      "Image",
+      "PIL",
+      "big_vision.evaluators.proj.paligemma.transfers.segmentation",
+      "google.colab",
+      "matplotlib",
+      "matplotlib.pyplot",
+      "keras",
+      "keras_hub",
+      "numpy",
+      "requests",
+      "path",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/paligemma/fine-tuning-paligemma.ipynb",
+    "dependencies": [
+      "big_vision.trainers.proj.paligemma",
+      "big_vision.sharding",
+      "PIL",
+      "big_vision.models.proj.paligemma",
+      "warnings",
+      "display",
+      "functools",
+      "sys",
+      "html",
+      "jax.numpy",
+      "big_vision.datasets.jsonl",
+      "predict_fns",
+      "ml_collections",
+      "sentencepiece",
+      "numpy",
+      "jax",
+      "os",
+      "kagglehub",
+      "Image",
+      "IPython.core.display",
+      "io",
+      "tensorflow",
+      "paligemma",
+      "big_vision.utils",
+      "base64",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/functiongemma/function-calling-with-hf.ipynb",
+    "dependencies": [
+      "huggingface_hub",
+      "transformers",
+      "json",
+      "login",
+      "transformers.utils",
+      "get_json_schema",
+      "AutoProcessor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/functiongemma/finetuning-with-functiongemma.ipynb",
+    "dependencies": [
+      "Dataset",
+      "huggingface_hub",
+      "torch",
+      "google.colab",
+      "json",
+      "transformers",
+      "SFTTrainer",
+      "datasets",
+      "trl",
+      "login",
+      "matplotlib.pyplot",
+      "transformers.utils",
+      "drive",
+      "get_json_schema",
+      "AutoTokenizer",
+      "SFTConfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/functiongemma/full-function-calling-sequence-with-functiongemma.ipynb",
+    "dependencies": [
+      "huggingface_hub",
+      "transformers",
+      "login",
+      "AutoProcessor",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/core/pytorch_gemma.ipynb",
+    "dependencies": [
+      "userdata",
+      "sys",
+      "kagglehub",
+      "io",
+      "Gemma3ForMultimodalLM",
+      "get_model_config",
+      "torch",
+      "PIL",
+      "gemma_pytorch.gemma.gemma3_model",
+      "google.colab",
+      "gemma_pytorch.gemma.config",
+      "requests",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/core/huggingface_inference.ipynb",
+    "dependencies": [
+      "userdata",
+      "huggingface_hub",
+      "torch",
+      "google.colab",
+      "transformers",
+      "pipeline",
+      "login",
+      "AutoProcessor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/core/lora_tuning.ipynb",
+    "dependencies": [
+      "userdata",
+      "google.colab",
+      "json",
+      "keras",
+      "keras_hub",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/core/huggingface_text_finetune_qlora.ipynb",
+    "dependencies": [
+      "load_dataset",
+      "randint",
+      "re",
+      "huggingface_hub",
+      "LoraConfig",
+      "random",
+      "torch",
+      "transformers",
+      "SFTTrainer",
+      "pipeline",
+      "login",
+      "trl",
+      "peft",
+      "PeftModel",
+      "datasets",
+      "AutoTokenizer",
+      "SFTConfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/core/huggingface_text_full_finetune.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "re",
+      "huggingface_hub",
+      "random",
+      "torch",
+      "SFTConfig",
+      "google.colab",
+      "transformers",
+      "SFTTrainer",
+      "pipeline",
+      "login",
+      "matplotlib.pyplot",
+      "trl",
+      "drive",
+      "datasets",
+      "AutoTokenizer",
+      "randint"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/core/distributed_tuning.ipynb",
+    "dependencies": [
+      "tensorflow_datasets",
+      "kagglehub",
+      "keras_nlp",
+      "error",
+      "keras",
+      "jax",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/core/gemma_library.ipynb",
+    "dependencies": [
+      "tensorflow_datasets",
+      "kagglehub",
+      "jax.numpy",
+      "gm",
+      "gemma",
+      "jax",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/core/keras_inference.ipynb",
+    "dependencies": [
+      "userdata",
+      "pyplot",
+      "PIL",
+      "google.colab",
+      "matplotlib",
+      "keras",
+      "keras_hub",
+      "numpy",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/embeddinggemma/inference-embeddinggemma-with-sentence-transformers.ipynb",
+    "dependencies": [
+      "huggingface_hub",
+      "torch",
+      "SentenceTransformer",
+      "login",
+      "sentence_transformers"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/embeddinggemma/fine-tuning-embeddinggemma-with-sentence-transformers.ipynb",
+    "dependencies": [
+      "Dataset",
+      "huggingface_hub",
+      "torch",
+      "SentenceTransformer",
+      "MultipleNegativesRankingLoss",
+      "transformers",
+      "SentenceTransformerTrainer",
+      "login",
+      "datasets",
+      "sentence_transformers",
+      "TrainerCallback",
+      "sentence_transformers.losses"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/codegemma/codegemma_flax_inference.ipynb",
+    "dependencies": [
+      "userdata",
+      "sys",
+      "kagglehub",
+      "sampler",
+      "params",
+      "google.colab",
+      "transformer",
+      "if",
+      "sentencepiece",
+      "numpy",
+      "gemma",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/codegemma/code_assist_keras.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "google.colab",
+      "keras",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/codegemma/keras_quickstart.ipynb",
+    "dependencies": [
+      "userdata",
+      "google.colab",
+      "keras",
+      "keras_hub",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/integrations/langchain.ipynb",
+    "dependencies": [
+      "userdata",
+      "langchain_google_vertexai",
+      "auth",
+      "langchain_core.messages",
+      "GemmaLocalKaggle",
+      "google.colab",
+      "GemmaVertexAIModelGarden",
+      "GemmaLocalHF",
+      "GemmaChatLocalKaggle",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Guides/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Guides/Gemma-3n-Submodels/RESPONSE_SUB_BILLION_AND_AUDIO_SLICING.md",
+    "dependencies": [
+      "transformers",
+      "AutoConfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Guides/Gemma-3n-Submodels/custom_slicing_configs.py",
+    "dependencies": [
+      "typing",
+      "pandas",
+      "json",
+      "List"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Guides/Gemma-3n-Submodels/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Guides/Gemma-3n-Submodels/FEATURE_REQUEST_RESPONSE_SUMMARY.md",
+    "dependencies": [
+      "AutoTokenizer",
+      "transformers"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Guides/Gemma-3n-Submodels/QUICK_START_SUB_BILLION_MODELS.md",
+    "dependencies": [
+      "huggingface_hub",
+      "Thread",
+      "torch",
+      "threading",
+      "transformers",
+      "HfApi",
+      "TextIteratorStreamer",
+      "AutoModelForCausalLM",
+      "notebook_login",
+      "BitsAndBytesConfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Guides/Gemma-3n-Submodels/INDEX_SUB_BILLION_RESPONSE.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MedGemma/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MedGemma/[MedGemma]Inference_using_HuggingFace.ipynb",
+    "dependencies": [
+      "io",
+      "Image",
+      "BytesIO",
+      "torch",
+      "PIL",
+      "transformers",
+      "pipeline",
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "FunctionGemma/[FunctionGemma]Finetune_FunctionGemma_270M_for_Mobile_Actions_with_Hugging_Face.ipynb",
+    "dependencies": [
+      "transformers",
+      "json",
+      "pipeline",
+      "AutoModelForCausalLM",
+      "ExportConfig",
+      "transformers.pipelines.pt_utils",
+      "userdata",
+      "the",
+      "google.colab",
+      "ai_edge_torch.generative.examples.gemma3",
+      "login",
+      "pandas",
+      "hf_hub_download",
+      "datasets",
+      "re",
+      "os",
+      "randint",
+      "torch",
+      "gemma3",
+      "kv_cache",
+      "SFTTrainer",
+      "ai_edge_torch.generative.layers",
+      "matplotlib.pyplot",
+      "AutoTokenizer",
+      "converter",
+      "SFTConfig",
+      "load_dataset",
+      "huggingface_hub",
+      "random",
+      "ai_edge_torch.generative.utilities",
+      "KeyDataset",
+      "trl",
+      "ModelCard",
+      "ai_edge_torch.generative.utilities.export_config",
+      "drive"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "FunctionGemma/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "FunctionGemma/[FunctionGemma]Finetune_FunctionGemma_270M_for_Mobile_Actions_with_Tunix.ipynb",
+    "dependencies": [
+      "flax",
+      "transformers",
+      "json",
+      "tunix.models.gemma3",
+      "functools",
+      "nnx",
+      "userdata",
+      "jax.numpy",
+      "sampler",
+      "wandb",
+      "google.colab",
+      "importlib",
+      "pandas",
+      "numpy",
+      "logging",
+      "qwix",
+      "datasets",
+      "jax",
+      "os",
+      "re",
+      "shutil",
+      "optax",
+      "params",
+      "metrics_logger",
+      "peft_trainer",
+      "AutoTokenizer",
+      "tokenizer_adapter",
+      "tunix.generate",
+      "load_dataset",
+      "params_safetensors",
+      "huggingface_hub",
+      "snapshot_download",
+      "model",
+      "tunix.sft",
+      "utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "responsible/shieldgemma_on_keras.ipynb",
+    "dependencies": [
+      "kagglehub",
+      "Sequence",
+      "keras_nlp",
+      "collections.abc",
+      "keras",
+      "enum",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "responsible/agile_classifiers.ipynb",
+    "dependencies": [
+      "kagglehub",
+      "keras_nlp",
+      "tensorflow",
+      "f1_score",
+      "confusion_matrix",
+      "seaborn",
+      "RocCurveDisplay",
+      "matplotlib.pyplot",
+      "sklearn.metrics",
+      "keras",
+      "pandas",
+      "numpy",
+      "dataclasses",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "responsible/lit_gemma.ipynb",
+    "dependencies": [
+      "kagglehub",
+      "notebook",
+      "lit_nlp.examples.prompt_debugging"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "responsible/shieldgemma2_on_huggingface.ipynb",
+    "dependencies": [
+      "Image",
+      "PIL",
+      "torch",
+      "transformers",
+      "requests",
+      "AutoProcessor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "responsible/shieldgemma_on_huggingface.ipynb",
+    "dependencies": [
+      "huggingface_hub",
+      "Sequence",
+      "typing",
+      "torch",
+      "transformers",
+      "collections.abc",
+      "Any",
+      "enum"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/eslint.config.js",
+    "dependencies": [
+      "globals",
+      "reactHooks",
+      "js",
+      "reactRefresh",
+      "react"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/package.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/package-lock.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/tailwind.config.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/postcss.config.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/index.html",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/vite.config.js",
+    "dependencies": [
+      "react"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/.gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/public/vite.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/worker.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/App.jsx",
+    "dependencies": [
+      "Progress",
+      "ArrowRightIcon",
+      "Chat",
+      "StopIcon"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/main.jsx",
+    "dependencies": [
+      "App",
+      "./styles/index.css"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/components/Chat.jsx",
+    "dependencies": [
+      "UserIcon",
+      "../styles/Chat.css",
+      "DOMPurify",
+      "BotIcon"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/components/Progress.jsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/components/icons/StopIcon.jsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/components/icons/ArrowRightIcon.jsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/components/icons/BotIcon.jsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/components/icons/UserIcon.jsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/styles/Chat.css",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma3-on-Web/src/styles/index.css",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/gradlew",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/settings.gradle.kts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/gradle.properties",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/gradlew.bat",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/build.gradle.kts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/.gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/gradle/wrapper/gradle-wrapper.properties",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/proguard-rules.pro",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/build.gradle.kts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/.gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/test/java/com/example/scigemma/ExampleUnitTest.kt",
+    "dependencies": [
+      "org.junit.Assert.",
+      "org.junit.Test"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/AndroidManifest.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/java/com/example/scigemma/LoadingScreen.kt",
+    "dependencies": [
+      "androidx.compose.material3.MaterialTheme",
+      "androidx.compose.runtime.remember",
+      "androidx.compose.runtime.setValue",
+      "androidx.compose.runtime.mutableStateOf",
+      "androidx.compose.foundation.layout.Arrangement",
+      "androidx.compose.foundation.layout.padding",
+      "androidx.compose.material3.CircularProgressIndicator",
+      "kotlinx.coroutines.Dispatchers",
+      "androidx.compose.foundation.layout.Box",
+      "androidx.compose.ui.Alignment",
+      "androidx.compose.material3.Text",
+      "androidx.compose.runtime.Composable",
+      "androidx.compose.foundation.layout.Column",
+      "androidx.compose.ui.Modifier",
+      "androidx.compose.ui.platform.LocalContext",
+      "androidx.compose.ui.text.style.TextAlign",
+      "androidx.compose.runtime.getValue",
+      "androidx.compose.ui.graphics.Color",
+      "kotlinx.coroutines.withContext",
+      "androidx.compose.ui.unit.dp",
+      "androidx.compose.ui.res.stringResource",
+      "androidx.compose.runtime.LaunchedEffect"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/java/com/example/scigemma/InferenceModel.kt",
+    "dependencies": [
+      "com.google.mediapipe.tasks.genai.llminference.LlmInference",
+      "kotlinx.coroutines.flow.asSharedFlow",
+      "android.content.Context",
+      "kotlinx.coroutines.channels.BufferOverflow",
+      "kotlinx.coroutines.flow.MutableSharedFlow",
+      "java.io.File",
+      "kotlinx.coroutines.flow.SharedFlow"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/java/com/example/scigemma/MainActivity.kt",
+    "dependencies": [
+      "androidx.compose.material3.MaterialTheme",
+      "androidx.compose.material3.Scaffold",
+      "androidx.compose.foundation.layout.padding",
+      "com.example.scigemma.ui.theme.SciGemmaTheme",
+      "androidx.navigation.compose.rememberNavController",
+      "androidx.compose.foundation.layout.Box",
+      "androidx.compose.foundation.layout.fillMaxWidth",
+      "androidx.compose.material3.Text",
+      "android.os.Bundle",
+      "androidx.compose.ui.Modifier",
+      "androidx.compose.foundation.layout.Column",
+      "androidx.activity.compose.setContent",
+      "androidx.compose.material3.TopAppBarDefaults",
+      "androidx.compose.runtime.Composable",
+      "androidx.compose.material3.Surface",
+      "androidx.navigation.compose.NavHost",
+      "androidx.compose.foundation.layout.fillMaxSize",
+      "androidx.activity.ComponentActivity",
+      "androidx.compose.ui.text.style.TextAlign",
+      "androidx.navigation.compose.composable",
+      "androidx.compose.material3.TopAppBar",
+      "androidx.compose.ui.graphics.Color",
+      "androidx.compose.foundation.background",
+      "androidx.compose.ui.unit.dp",
+      "androidx.compose.material3.ExperimentalMaterial3Api",
+      "androidx.compose.ui.res.stringResource"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/java/com/example/scigemma/ChatViewModel.kt",
+    "dependencies": [
+      "kotlinx.coroutines.flow.StateFlow",
+      "kotlinx.coroutines.flow.collectIndexed",
+      "kotlinx.coroutines.launch",
+      "android.content.Context",
+      "androidx.lifecycle.ViewModelProvider",
+      "kotlinx.coroutines.flow.asStateFlow",
+      "androidx.lifecycle.ViewModel",
+      "kotlinx.coroutines.flow.MutableStateFlow",
+      "kotlinx.coroutines.Dispatchers",
+      "androidx.lifecycle.viewModelScope",
+      "androidx.lifecycle.viewmodel.CreationExtras"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/java/com/example/scigemma/ChatScreen.kt",
+    "dependencies": [
+      "androidx.compose.foundation.layout.BoxWithConstraints",
+      "androidx.compose.material3.MaterialTheme",
+      "androidx.compose.runtime.setValue",
+      "androidx.compose.foundation.lazy.items",
+      "androidx.compose.material.icons.automirrored.filled.Send",
+      "androidx.compose.runtime.mutableStateOf",
+      "androidx.compose.foundation.layout.Arrangement",
+      "androidx.compose.foundation.layout.padding",
+      "androidx.compose.material3.CircularProgressIndicator",
+      "androidx.compose.runtime.saveable.rememberSaveable",
+      "androidx.compose.material3.CardDefaults",
+      "androidx.compose.foundation.layout.width",
+      "androidx.compose.material3.Icon",
+      "androidx.compose.foundation.layout.widthIn",
+      "androidx.compose.material.icons.Icons",
+      "androidx.compose.foundation.layout.fillMaxWidth",
+      "androidx.compose.ui.Alignment",
+      "androidx.compose.material3.OutlinedTextField",
+      "androidx.compose.material3.Text",
+      "androidx.compose.material3.Card",
+      "androidx.compose.material3.IconButton",
+      "androidx.lifecycle.viewmodel.compose.viewModel",
+      "androidx.compose.runtime.Composable",
+      "androidx.compose.foundation.layout.Column",
+      "androidx.compose.material3.TextField",
+      "androidx.compose.ui.Modifier",
+      "androidx.compose.foundation.layout.fillMaxSize",
+      "androidx.compose.ui.text.input.KeyboardCapitalization",
+      "androidx.compose.ui.platform.LocalContext",
+      "androidx.compose.foundation.layout.Spacer",
+      "androidx.lifecycle.compose.collectAsStateWithLifecycle",
+      "androidx.compose.material3.TextFieldDefaults",
+      "androidx.compose.runtime.getValue",
+      "androidx.compose.foundation.lazy.LazyColumn",
+      "androidx.compose.foundation.text.KeyboardOptions",
+      "androidx.compose.ui.graphics.Color",
+      "androidx.compose.foundation.layout.Row",
+      "androidx.compose.foundation.shape.RoundedCornerShape",
+      "androidx.compose.material3.OutlinedTextFieldDefaults",
+      "androidx.compose.ui.unit.dp",
+      "androidx.compose.ui.res.stringResource"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/java/com/example/scigemma/ChatMessage.kt",
+    "dependencies": [
+      "java.util.UUID"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/java/com/example/scigemma/ChatUiState.kt",
+    "dependencies": [
+      "androidx.compose.runtime.toMutableStateList"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/java/com/example/scigemma/ui/theme/Color.kt",
+    "dependencies": [
+      "androidx.compose.ui.graphics.Color"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/java/com/example/scigemma/ui/theme/Theme.kt",
+    "dependencies": [
+      "androidx.compose.material3.MaterialTheme",
+      "androidx.compose.runtime.Composable",
+      "android.app.Activity",
+      "androidx.compose.foundation.isSystemInDarkTheme",
+      "androidx.compose.ui.platform.LocalView",
+      "androidx.compose.runtime.SideEffect",
+      "androidx.compose.material3.dynamicLightColorScheme",
+      "androidx.compose.material3.lightColorScheme",
+      "androidx.compose.material3.darkColorScheme",
+      "androidx.compose.ui.graphics.Color",
+      "androidx.compose.ui.platform.LocalContext",
+      "androidx.compose.ui.graphics.toArgb",
+      "androidx.core.view.WindowCompat",
+      "androidx.compose.material3.dynamicDarkColorScheme",
+      "android.os.Build"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/java/com/example/scigemma/ui/theme/Type.kt",
+    "dependencies": [
+      "androidx.compose.ui.text.font.FontWeight",
+      "androidx.compose.ui.text.TextStyle",
+      "androidx.compose.ui.text.font.FontFamily",
+      "androidx.compose.material3.Typography",
+      "androidx.compose.ui.unit.sp"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/res/values/strings.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/res/values/themes.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/res/values/colors.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/res/drawable/ic_launcher_background.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/res/drawable/ic_launcher_foreground.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/res/xml/data_extraction_rules.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/main/res/xml/backup_rules.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Android/Android_App/app/src/androidTest/java/com/example/scigemma/ExampleInstrumentedTest.kt",
+    "dependencies": [
+      "androidx.test.platform.app.InstrumentationRegistry",
+      "androidx.test.ext.junit.runners.AndroidJUnit4",
+      "org.junit.Test",
+      "org.junit.Assert.",
+      "org.junit.runner.RunWith"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/setup_python.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/installation.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-gemma-it/tune_model.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-gemma-it/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-gemma-it/main.py",
+    "dependencies": [
+      "load_dataset",
+      "keras_nlp",
+      "dotenv",
+      "keras",
+      "datasets",
+      "os",
+      "load_dotenv"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-gemma-it/spoken_language_tasks_with_gemma.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "keras_nlp",
+      "time",
+      "google.colab",
+      "matplotlib.pyplot",
+      "keras",
+      "datasets",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-gemma-it/deploy_weights.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-gemma-it/weights/tuning-output-readme.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/run_flask_app.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/k_mail_replier/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/k_mail_replier/app.py",
+    "dependencies": [
+      "k_mail_replier.models.gemini",
+      "create_message_processor",
+      "k_mail_replier.models.gemma",
+      "Flask",
+      "flask"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/k_mail_replier/models/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/k_mail_replier/models/gemma.py",
+    "dependencies": [
+      "re",
+      "keras_nlp",
+      "dotenv",
+      "os",
+      "load_dotenv"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/k_mail_replier/models/gemini.py",
+    "dependencies": [
+      "dotenv",
+      "os",
+      "google.generativeai",
+      "load_dotenv"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/k_mail_replier/data/email-001.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/k_mail_replier/data/email-001-ko.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/k_mail_replier/static/css/style.css",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/k_mail_replier/static/js/script.js",
+    "dependencies": [
+      "the"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/k_mail_replier/templates/index.html",
+    "dependencies": [
+      "material"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/tests/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/spoken-language-tasks/k-mail-replier/tests/gemma_generate.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/start_script.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/Dockerfile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/converter.go",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/converter_test.go",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/cloudbuild.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/go.mod",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/README.md",
+    "dependencies": [
+      "google.genai.types",
+      "GGUF",
+      "HttpOptions",
+      "chat",
+      "ollama",
+      "genai",
+      "google",
+      "Client",
+      "openai",
+      "OpenAI"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/proxy_test.go",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/proxy.go",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/code-examples/ollama_examples.py",
+    "dependencies": [
+      "ollama",
+      "Client",
+      "chat"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/code-examples/genai_examples.py",
+    "dependencies": [
+      "google.genai.types",
+      "genai",
+      "HttpOptions",
+      "google"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Gemma-on-Cloudrun/code-examples/openai_examples.py",
+    "dependencies": [
+      "openai",
+      "OpenAI"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/manage.py",
+    "dependencies": [
+      "sys",
+      "django.core.management",
+      "Django.",
+      "execute_from_command_line",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/apiserver/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/apiserver/urls.py",
+    "dependencies": [
+      "admin",
+      "django.conf",
+      "views",
+      "include",
+      "django.conf.urls.static",
+      "Home",
+      "my_app",
+      "django.contrib",
+      "settings",
+      "django.urls",
+      "other_app.views",
+      "static",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/apiserver/settings.py",
+    "dependencies": [
+      "pathlib",
+      "Path",
+      "decouple",
+      "config",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/apiserver/wsgi.py",
+    "dependencies": [
+      "django.core.wsgi",
+      "get_wsgi_application",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/apiserver/asgi.py",
+    "dependencies": [
+      "django.core.asgi",
+      "get_asgi_application",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/urls.py",
+    "dependencies": [
+      ".",
+      "django.urls",
+      "path",
+      "views"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/tests.py",
+    "dependencies": [
+      "django.test",
+      "TestCase"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/models.py",
+    "dependencies": [
+      "django.db",
+      "models"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/test.py",
+    "dependencies": [
+      "gradio_client",
+      "Client"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/apps.py",
+    "dependencies": [
+      "AppConfig",
+      "django.apps"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/schemas.py",
+    "dependencies": [
+      "Schema",
+      "ninja"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/views.py",
+    "dependencies": [
+      "sys",
+      "re",
+      "pathlib",
+      "Image",
+      "PIL",
+      "NinjaAPI",
+      "json",
+      "ImageDetection",
+      "decouple",
+      ".models",
+      "gradio_client",
+      "subprocess",
+      "Client",
+      "numpy",
+      "config",
+      "ninja",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/admin.py",
+    "dependencies": [
+      "admin",
+      "django.contrib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/migrations/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Python_Server/apiserver/api/migrations/0001_initial.py",
+    "dependencies": [
+      "migrations",
+      "django.db"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/gradlew",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/settings.gradle.kts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/gradle.properties",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/gradlew.bat",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/build.gradle.kts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/.gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/gradle/wrapper/gradle-wrapper.properties",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/proguard-rules.pro",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/build.gradle.kts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/.gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/test/java/com/example/paligemma/ExampleUnitTest.kt",
+    "dependencies": [
+      "org.junit.Assert.",
+      "org.junit.Test"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/AndroidManifest.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/ui/theme/Color.kt",
+    "dependencies": [
+      "androidx.compose.ui.graphics.Color"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/ui/theme/Theme.kt",
+    "dependencies": [
+      "androidx.compose.material3.MaterialTheme",
+      "androidx.compose.runtime.Composable",
+      "android.app.Activity",
+      "androidx.compose.foundation.isSystemInDarkTheme",
+      "androidx.compose.ui.platform.LocalView",
+      "androidx.compose.runtime.SideEffect",
+      "androidx.compose.material3.dynamicLightColorScheme",
+      "androidx.compose.material3.lightColorScheme",
+      "androidx.compose.material3.darkColorScheme",
+      "androidx.core.view.WindowCompat",
+      "androidx.compose.ui.platform.LocalContext",
+      "androidx.compose.ui.graphics.toArgb",
+      "androidx.compose.material3.dynamicDarkColorScheme",
+      "android.os.Build"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/ui/theme/Type.kt",
+    "dependencies": [
+      "androidx.compose.ui.text.font.FontWeight",
+      "androidx.compose.ui.text.TextStyle",
+      "androidx.compose.ui.text.font.FontFamily",
+      "androidx.compose.material3.Typography",
+      "androidx.compose.ui.unit.sp"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/data/InputStreamRequestBody.kt",
+    "dependencies": [
+      "okhttp3.RequestBody",
+      "java.io.IOException",
+      "okhttp3.MediaType.Companion.toMediaTypeOrNull",
+      "android.content.ContentResolver",
+      "okio.BufferedSink",
+      "okio.source",
+      "android.net.Uri"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/data/CoordinatesModelApi.kt",
+    "dependencies": [
+      "okhttp3.RequestBody",
+      "okhttp3.MultipartBody",
+      "retrofit2.http.Part",
+      "retrofit2.http.Multipart",
+      "okhttp3.OkHttpClient",
+      "retrofit2.http.POST",
+      "retrofit2.Response",
+      "retrofit2.converter.gson.GsonConverterFactory",
+      "retrofit2.Retrofit",
+      "java.util.concurrent.TimeUnit"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/data/Result.kt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/data/CoordinatesModel.kt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/data/CoordinatesModelRepo.kt",
+    "dependencies": [
+      "retrofit2.Response"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/data/RequestModel.kt",
+    "dependencies": [
+      "android.net.Uri",
+      "java.io.File"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/data/CoordinatesModelRepoImpl.kt",
+    "dependencies": [
+      "okhttp3.MultipartBody",
+      "okhttp3.RequestBody.Companion.toRequestBody",
+      "kotlinx.coroutines.withContext",
+      "android.content.Context",
+      "android.net.Uri",
+      "retrofit2.Response",
+      "kotlinx.coroutines.Dispatchers",
+      "java.io.File",
+      "android.util.Log",
+      "okhttp3.RequestBody.Companion.asRequestBody"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/presentation/MainActivity.kt",
+    "dependencies": [
+      "androidx.compose.material3.MaterialTheme",
+      "androidx.compose.material3.Scaffold",
+      "androidx.compose.runtime.remember",
+      "androidx.compose.runtime.setValue",
+      "com.example.paligemma.data.RequestModel",
+      "androidx.compose.runtime.mutableStateOf",
+      "androidx.compose.foundation.layout.Arrangement",
+      "androidx.compose.foundation.layout.padding",
+      "androidx.compose.material3.Button",
+      "androidx.compose.material3.CircularProgressIndicator",
+      "androidx.compose.runtime.saveable.rememberSaveable",
+      "androidx.compose.foundation.layout.heightIn",
+      "androidx.compose.material3.Icon",
+      "androidx.compose.material3.SnackbarHostState",
+      "androidx.compose.ui.layout.positionInRoot",
+      "androidx.compose.material.icons.Icons",
+      "androidx.compose.ui.layout.onGloballyPositioned",
+      "androidx.compose.ui.text.font.FontWeight",
+      "androidx.compose.foundation.layout.Box",
+      "androidx.compose.foundation.layout.fillMaxWidth",
+      "androidx.compose.material3.SnackbarHost",
+      "androidx.compose.foundation.verticalScroll",
+      "androidx.compose.ui.Alignment",
+      "android.content.Context",
+      "androidx.compose.material3.OutlinedTextField",
+      "androidx.compose.ui.text.rememberTextMeasurer",
+      "androidx.compose.material3.Text",
+      "androidx.core.content.ContextCompat",
+      "androidx.activity.compose.rememberLauncherForActivityResult",
+      "android.os.Bundle",
+      "androidx.compose.material3.Snackbar",
+      "com.example.paligemma.data.CoordinatesModelRepoImpl",
+      "androidx.core.content.FileProvider",
+      "androidx.compose.material3.IconButton",
+      "java.util.Objects",
+      "androidx.lifecycle.viewmodel.compose.viewModel",
+      "coil.compose.AsyncImage",
+      "androidx.compose.runtime.Composable",
+      "androidx.compose.foundation.layout.Column",
+      "androidx.activity.compose.setContent",
+      "androidx.compose.foundation.layout.size",
+      "androidx.compose.ui.Modifier",
+      "androidx.compose.material3.Surface",
+      "androidx.compose.ui.text.drawText",
+      "androidx.compose.foundation.layout.fillMaxSize",
+      "androidx.compose.material.icons.rounded.Clear",
+      "kotlinx.coroutines.launch",
+      "androidx.compose.runtime.rememberCoroutineScope",
+      "androidx.compose.ui.platform.LocalContext",
+      "androidx.activity.ComponentActivity",
+      "android.net.Uri",
+      "coil.request.ImageRequest",
+      "java.io.File",
+      "androidx.compose.ui.unit.sp",
+      "androidx.compose.runtime.getValue",
+      "android.widget.Toast",
+      "android.content.pm.PackageManager",
+      "androidx.compose.material3.ButtonDefaults",
+      "androidx.compose.runtime.mutableIntStateOf",
+      "androidx.compose.ui.graphics.Color",
+      "androidx.compose.foundation.background",
+      "androidx.activity.result.contract.ActivityResultContracts",
+      "androidx.compose.foundation.rememberScrollState",
+      "androidx.compose.ui.text.TextStyle",
+      "androidx.compose.foundation.layout.Row",
+      "androidx.compose.material3.OutlinedTextFieldDefaults",
+      "androidx.compose.ui.graphics.drawscope.Stroke",
+      "androidx.compose.ui.unit.dp",
+      "androidx.compose.foundation.Canvas",
+      "androidx.compose.runtime.LaunchedEffect"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/presentation/UiState.kt",
+    "dependencies": [
+      "androidx.compose.ui.graphics.Color",
+      "androidx.compose.ui.graphics.Path",
+      "androidx.compose.ui.geometry.Size",
+      "androidx.compose.ui.geometry.Offset"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/java/com/example/paligemma/presentation/CoordinatesModelViewModel.kt",
+    "dependencies": [
+      "com.example.paligemma.data.Result",
+      "androidx.compose.runtime.setValue",
+      "kotlinx.coroutines.launch",
+      "androidx.compose.runtime.mutableFloatStateOf",
+      "androidx.compose.ui.graphics.Color",
+      "androidx.lifecycle.ViewModelProvider",
+      "androidx.compose.ui.graphics.Path",
+      "androidx.compose.runtime.mutableStateOf",
+      "androidx.compose.ui.geometry.Size",
+      "com.example.paligemma.data.RequestModel",
+      "com.example.paligemma.data.CoordinatesModelRepo",
+      "java.util.Locale",
+      "androidx.lifecycle.ViewModel",
+      "androidx.compose.ui.geometry.Offset",
+      "androidx.lifecycle.viewModelScope",
+      "androidx.compose.runtime.getValue"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/res/values/strings.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/res/values/themes.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/res/values/colors.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/res/drawable/ic_launcher_background.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/res/drawable/ic_launcher_foreground.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/res/xml/data_extraction_rules.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/res/xml/backup_rules.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/main/res/xml/path_provider.xml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma-on-Android/Android_App/PaliGemma/app/src/androidTest/java/com/example/paligemma/ExampleInstrumentedTest.kt",
+    "dependencies": [
+      "androidx.test.platform.app.InstrumentationRegistry",
+      "androidx.test.ext.junit.runners.AndroidJUnit4",
+      "org.junit.Test",
+      "org.junit.Assert.",
+      "org.junit.runner.RunWith"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-mediapipe/worker.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-mediapipe/style.css",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-mediapipe/script.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-mediapipe/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-mediapipe/mediapipe_genai_bundle.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-mediapipe/index.html",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-transformersjs/worker.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-transformersjs/style.css",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-transformersjs/script.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-transformersjs/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/app-transformersjs/index.html",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/resources/Fine_tune_Gemma_3_270M_for_emoji_generation.ipynb",
+    "dependencies": [
+      "LoraConfig",
+      "transformers",
+      "pipeline",
+      "PeftModel",
+      "userdata",
+      "google.colab",
+      "login",
+      "datasets",
+      "emoji",
+      "re",
+      "randint",
+      "torch",
+      "matplotlib.pyplot",
+      "AutoTokenizer",
+      "SFTConfig",
+      "load_dataset",
+      "huggingface_hub",
+      "random",
+      "trl",
+      "ModelCard",
+      "peft"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/resources/Convert_Gemma_3_270M_to_LiteRT_for_MediaPipe_LLM_Inference_API.ipynb",
+    "dependencies": [
+      "userdata",
+      "huggingface_hub",
+      "mediapipe.tasks.python.genai",
+      "gemma3",
+      "google.colab",
+      "kv_cache",
+      "transformers",
+      "ai_edge_torch.generative.examples.gemma3",
+      "ai_edge_torch.generative.utilities",
+      "ai_edge_torch.generative.layers",
+      "login",
+      "ai_edge_torch.generative.utilities.export_config",
+      "files",
+      "bundler",
+      "ExportConfig",
+      "AutoTokenizer",
+      "converter",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/resources/Emoji Translation Dataset - Template.csv",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/resources/Emoji Translation Dataset - Dataset.csv",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/Emoji-Gemma-on-Web/resources/Convert_Gemma_3_270M_to_ONNX.ipynb",
+    "dependencies": [
+      "userdata",
+      "huggingface_hub",
+      "whoami",
+      "google.colab",
+      "transformers",
+      "AutoConfig",
+      "login",
+      "onnxruntime",
+      "numpy",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/gemma-web-service/run_service.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/gemma-web-service/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/gemma-web-service/setup_python.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/gemma-web-service/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/gemma-web-service/installation.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/gemma-web-service/tests/test_post.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/gemma-web-service/tests/test_generation.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/gemma-web-service/gemma_service/gemma_service_main.py",
+    "dependencies": [
+      "get_model_id",
+      "fastapi",
+      "FastAPI",
+      "BaseModel",
+      "gemma_model",
+      "uvicorn",
+      "pydantic",
+      "create_model_instance"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/gemma-web-service/gemma_service/gemma_model.py",
+    "dependencies": [
+      "re",
+      "keras_nlp",
+      "dotenv",
+      "os",
+      "load_dotenv"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/package.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/package-lock.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/tsconfig.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/.eslintrc.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/src/comments.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/src/question.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/src/extension.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/src/review.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/src/models/gemma-service.ts",
+    "dependencies": [
+      "http"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/src/models/gemini-api.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/personal-code-assistant/pipet-code-agent-2/src/utility/commentChar.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/setup_python.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/installation.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/tune_model.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/main.py",
+    "dependencies": [
+      "keras_nlp",
+      "dotenv",
+      "json",
+      "keras",
+      "datasets",
+      "os",
+      "load_dotenv"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/deploy_weights.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/test_model.sh",
+    "dependencies": [
+      "main"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/data/record_6.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/data/record_5_2.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/data/record_4.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/data/record_4_2.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/data/record_3.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/data/record_7.json.removed",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/data/record_5.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/data/record_1.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/data/record_2.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/weights/tuning-output-readme.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/model-tuning/notebook/bakery_inquiry_model_tuned_with_gemma.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "google.colab",
+      "json",
+      "keras",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/app.py",
+    "dependencies": [
+      "create_message_processor",
+      "json",
+      "Flask",
+      "models.gemini",
+      "flask",
+      "models.gemma"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/run_app.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/models/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/models/gemma.py",
+    "dependencies": [
+      "re",
+      "keras_nlp",
+      "dotenv",
+      "os",
+      "load_dotenv"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/models/gemini.py",
+    "dependencies": [
+      "dotenv",
+      "os",
+      "google.generativeai",
+      "load_dotenv"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/data/email-001.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/tests/web_app_test.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/tests/gemma_generate.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/static/css/style.css",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/static/js/script.js",
+    "dependencies": [
+      "the"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/weights/readme.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/business-email-assistant/email-processing-webapp/templates/index.html",
+    "dependencies": [
+      "material"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma2-on-Web/server.js",
+    "dependencies": [
+      "path",
+      "fs",
+      "express"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma2-on-Web/package.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma2-on-Web/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma2-on-Web/public/style.css",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma2-on-Web/public/script.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Demos/PaliGemma2-on-Web/public/index.html",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Research/[T5Gemma]Example.ipynb",
+    "dependencies": [
+      "kauldron",
+      "enp",
+      "transformers",
+      "gemma.research",
+      "grain",
+      "dataclasses",
+      "ecolab",
+      "python",
+      "etils",
+      "notebook_login",
+      "gm",
+      "os",
+      "kagglehub",
+      "optax",
+      "t5gemma",
+      "AutoTokenizer",
+      "huggingface_hub",
+      "kd",
+      "treescope",
+      "gemma"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Research/[VaultGemma]FineTuning_Inference_Huggingface.ipynb",
+    "dependencies": [
+      "LoraConfig",
+      "torch.utils.data",
+      "transformers",
+      "PeftModel",
+      "DataLoader",
+      "opacus.validators",
+      "pandas",
+      "datasets",
+      "tqdm",
+      "os",
+      "kagglehub",
+      "torch",
+      "PrivacyEngine",
+      "opacus",
+      "load_dataset",
+      "math",
+      "peft",
+      "tqdm.auto",
+      "ModuleValidator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Research/[T5Gemma_2]Example.ipynb",
+    "dependencies": [
+      "kagglehub",
+      "Image",
+      "PIL",
+      "transformers",
+      "requests",
+      "AutoTokenizer",
+      "AutoProcessor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Research/[TranslateGemma]Example.ipynb",
+    "dependencies": [
+      "userdata",
+      "Javascript",
+      "PIL",
+      "torch",
+      "Markdown",
+      "transformers",
+      "google.colab",
+      "pipeline",
+      "IPython.display",
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Research/README.md",
+    "dependencies": [
+      "AutoModelForCausalLM",
+      "transformers",
+      "peft",
+      "PeftModel"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Using_with_Mesop.ipynb",
+    "dependencies": [
+      "keras_nlp",
+      "matplotlib.patches",
+      "PIL",
+      "mesop",
+      "requests",
+      "userdata",
+      "sys",
+      "big_vision.evaluators.proj.paligemma.transfers.segmentation",
+      "google.colab",
+      "Any",
+      "numpy",
+      "re",
+      "os",
+      "Image",
+      "matplotlib.pyplot",
+      "mesop.labs",
+      "io",
+      "typing",
+      "keras",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Finetune_with_Keras.ipynb",
+    "dependencies": [
+      "userdata",
+      "urllib",
+      "io",
+      "html",
+      "keras_nlp",
+      "tensorflow",
+      "Image",
+      "PIL",
+      "google.colab",
+      "json",
+      "matplotlib.pyplot",
+      "keras",
+      "numpy",
+      "display",
+      "base64",
+      "IPython.core.display",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Finetune_with_object_detection.ipynb",
+    "dependencies": [
+      "big_vision.trainers.proj.paligemma",
+      "big_vision.sharding",
+      "PIL",
+      "big_vision.models.proj.paligemma",
+      "warnings",
+      "json",
+      "List",
+      "functools",
+      "display",
+      "cv2",
+      "Roboflow",
+      "supervision",
+      "userdata",
+      "sys",
+      "html",
+      "jax.numpy",
+      "tqdm.notebook",
+      "big_vision.datasets.jsonl",
+      "google.colab",
+      "predict_fns",
+      "ml_collections",
+      "sentencepiece",
+      "numpy",
+      "tqdm",
+      "jax",
+      "os",
+      "kagglehub",
+      "Image",
+      "matplotlib.pyplot",
+      "roboflow",
+      "IPython.core.display",
+      "io",
+      "tensorflow",
+      "typing",
+      "paligemma",
+      "big_vision.utils",
+      "base64",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_2]Using_with_Transformersjs.ipynb",
+    "dependencies": [
+      "requests",
+      "PIL",
+      "Image"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Image_captioning.ipynb",
+    "dependencies": [
+      "userdata",
+      "tensorflow",
+      "keras_nlp",
+      "google.colab",
+      "load_img",
+      "keras.preprocessing.image",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_2]Keras_Quickstart.ipynb",
+    "dependencies": [
+      "userdata",
+      "re",
+      "Image",
+      "PIL",
+      "google.colab",
+      "img_to_array",
+      "keras",
+      "keras_hub",
+      "numpy",
+      "requests",
+      "IPython.display",
+      "display",
+      "cv2",
+      "keras.utils",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Zero_shot_object_detection_in_images.ipynb",
+    "dependencies": [
+      "userdata",
+      "re",
+      "Image",
+      "PIL",
+      "torch",
+      "google.colab",
+      "transformers",
+      "numpy",
+      "AutoTokenizer",
+      "cv2",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Referring_expression_segmentation_in_images.ipynb",
+    "dependencies": [
+      "sys",
+      "re",
+      "userdata",
+      "Image",
+      "PIL",
+      "torch",
+      "big_vision.evaluators.proj.paligemma.transfers.segmentation",
+      "transformers",
+      "google.colab",
+      "matplotlib.pyplot",
+      "numpy",
+      "path.",
+      "AutoTokenizer",
+      "cv2",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Referring_expression_segmentation_in_videos.ipynb",
+    "dependencies": [
+      "sys",
+      "re",
+      "userdata",
+      "Image",
+      "PIL",
+      "torch",
+      "big_vision.evaluators.proj.paligemma.transfers.segmentation",
+      "transformers",
+      "google.colab",
+      "matplotlib.pyplot",
+      "numpy",
+      "path.",
+      "AutoTokenizer",
+      "cv2",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_2]Finetune_with_Keras.ipynb",
+    "dependencies": [
+      "io",
+      "urllib",
+      "html",
+      "tensorflow",
+      "Image",
+      "PIL",
+      "json",
+      "IPython.core.display",
+      "matplotlib.pyplot",
+      "keras",
+      "keras_hub",
+      "numpy",
+      "display",
+      "base64",
+      "os",
+      "from"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_2]Finetune_with_JAX.ipynb",
+    "dependencies": [
+      "big_vision.trainers.proj.paligemma",
+      "big_vision.sharding",
+      "PIL",
+      "big_vision.models.proj.paligemma",
+      "warnings",
+      "functools",
+      "display",
+      "sys",
+      "html",
+      "jax.numpy",
+      "big_vision.datasets.jsonl",
+      "predict_fns",
+      "ml_collections",
+      "sentencepiece",
+      "numpy",
+      "jax",
+      "os",
+      "kagglehub",
+      "Image",
+      "IPython.core.display",
+      "from",
+      "io",
+      "tensorflow",
+      "paligemma",
+      "big_vision.utils",
+      "base64",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Common_use_cases.ipynb",
+    "dependencies": [
+      "userdata",
+      "io",
+      "re",
+      "keras_nlp",
+      "Image",
+      "matplotlib.patches",
+      "PIL",
+      "google.colab",
+      "matplotlib.pyplot",
+      "keras",
+      "numpy",
+      "requests",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Zero_shot_object_detection_in_videos.ipynb",
+    "dependencies": [
+      "userdata",
+      "Image",
+      "PIL",
+      "torch",
+      "google.colab",
+      "transformers",
+      "numpy",
+      "AutoTokenizer",
+      "cv2",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Finetune_with_image_description.ipynb",
+    "dependencies": [
+      "big_vision.trainers.proj.paligemma",
+      "big_vision.sharding",
+      "PIL",
+      "big_vision.models.proj.paligemma",
+      "warnings",
+      "json",
+      "functools",
+      "display",
+      "userdata",
+      "sys",
+      "html",
+      "jax.numpy",
+      "big_vision.datasets.jsonl",
+      "google.colab",
+      "predict_fns",
+      "pandas",
+      "ml_collections",
+      "sentencepiece",
+      "numpy",
+      "jax",
+      "os",
+      "kagglehub",
+      "Image",
+      "matplotlib.pyplot",
+      "IPython.core.display",
+      "io",
+      "tensorflow",
+      "glob",
+      "random",
+      "paligemma",
+      "big_vision.utils",
+      "base64",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_2]Convert_PaliGemma2_to_ONNX.ipynb",
+    "dependencies": [
+      "onnx",
+      "torch.onnx._globals",
+      "transformers",
+      "json",
+      "userdata",
+      "google.colab",
+      "os",
+      "shutil",
+      "upload_folder",
+      "torch",
+      "GLOBALS",
+      "optimum.onnx.graph_transformations",
+      "torch.nn",
+      "check_and_save_model",
+      "huggingface_hub",
+      "pathlib",
+      "Path",
+      "whoami",
+      "onnxslim"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_1]Finetune_with_image_captioning.ipynb",
+    "dependencies": [
+      "userdata",
+      "Image",
+      "PIL",
+      "torch",
+      "google.colab",
+      "IPython",
+      "transformers",
+      "matplotlib",
+      "urlopen",
+      "requests",
+      "AutoProcessor",
+      "urllib.request",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "PaliGemma/[PaliGemma_2]Inference_PaliGemma2_with_Transformers_js.ipynb",
+    "dependencies": [
+      "Image",
+      "PIL",
+      "requests",
+      "fs",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CodeGemma/[CodeGemma_1]Finetune_with_SQL.ipynb",
+    "dependencies": [
+      "LoraConfig",
+      "transformers",
+      "sqlalchemy",
+      "userdata",
+      "google.colab",
+      "login",
+      "pandas",
+      "datasets",
+      "tqdm",
+      "os",
+      "torch",
+      "SFTTrainer",
+      "AutoTokenizer",
+      "load_dataset",
+      "huggingface_hub",
+      "sqlparse",
+      "trl",
+      "peft",
+      ".autonotebook"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CodeGemma/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CodeGemma/[CodeGemma_1]Common_use_cases.ipynb",
+    "dependencies": [
+      "userdata",
+      "keras_nlp",
+      "google.colab",
+      "keras",
+      "os",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "TxGemma/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "TxGemma/[TxGemma]Agentic_Demo_with_Hugging_Face.ipynb",
+    "dependencies": [
+      "userdata",
+      "huggingface_hub",
+      "Bio",
+      "google.colab",
+      "json",
+      "transformers",
+      "Medline",
+      "Entrez",
+      "hf_hub_download",
+      "AutoTokenizer",
+      "google.generativeai",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "TxGemma/[TxGemma]Quickstart_with_Hugging_Face.ipynb",
+    "dependencies": [
+      "userdata",
+      "huggingface_hub",
+      "google.colab",
+      "json",
+      "transformers",
+      "pipeline",
+      "display",
+      "IPython.display",
+      "hf_hub_download",
+      "AutoTokenizer",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "TxGemma/[TxGemma]Quickstart_with_Model_Garden.ipynb",
+    "dependencies": [
+      "io",
+      "storage",
+      "uuid",
+      "google.cloud",
+      "json",
+      "importlib",
+      "google.auth",
+      "IPython.display",
+      "datetime",
+      "display",
+      "aiplatform",
+      "openai",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "TxGemma/[TxGemma]Finetune_with_Hugging_Face.ipynb",
+    "dependencies": [
+      "userdata",
+      "load_dataset",
+      "LoraConfig",
+      "torch",
+      "prepare_model_for_kbit_training",
+      "transformers",
+      "google.colab",
+      "SFTTrainer",
+      "trl",
+      "peft",
+      "datasets",
+      "AutoTokenizer",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  }
+]
