@@ -2,7 +2,15 @@
 # Welcome to the Gemma Cookbook
 This is a collection of guides and examples for [Google Gemma](https://ai.google.dev/gemma/).
 
-> **Disclaimer:** Gemma is a family of developer-focused models built by Google Deepmind. This cookbook is a collection of guides and examples for Google Gemma. Please keep in mind that Gemma is an open model and can hallucinate as you build on examples in this cookbook.
+> **Disclaimer:** Gemma is a family of developer-focused models built by Google DeepMind. This cookbook is a collection of guides and examples for Google Gemma. Please keep in mind that Gemma is an open model and can hallucinate as you build on examples in this cookbook.
+
+## Repository Structure
+* [**Tutorials**](tutorials/): The latest tested notebooks for Gemma models and variants.
+* [**Apps**](apps/): Full-stack demos and complex end-to-end use cases.
+* [**Experiments**](experiments/): Research-focused model notebooks, including [TxGemma](experiments/TxGemma) and [MedGemma](experiments/MedGemma).
+* [**Responsible**](responsible/): Notebooks for responsible AI development.
+* [**Docs**](docs/): Core documentation, capabilities, and technical guides.
+* [**Archive**](.archive/): All older notebooks and historical examples.
 
 ## Get started with the Gemma models
 Gemma is a family of lightweight, generative artificial intelligence (AI) open models, built from the same research and technology used to create the Gemini models. The Gemma model family includes:
@@ -16,11 +24,15 @@ Gemma is a family of lightweight, generative artificial intelligence (AI) open m
     Longer context window and handling text and image input, available in 1B, 4B, 12B, and 27B parameter sizes
   * [Gemma 3n](https://ai.google.dev/gemma/docs/gemma-3n/model_card) \
     Designed for efficient execution on low-resource devices. Handling text, image, video, and audio input, available in E2B and E4B parameter sizes
+  * [Gemma 4](https://ai.google.dev/gemma/docs/core/model_card_4)\
+    Well-suited for reasoning, agentic workflows, coding, and multimodal understanding, available in E2B, E4B, 12B, 26B A4B, and 31B parameter sizes.
 * Gemma variants
   * [CodeGemma](https://ai.google.dev/gemma/docs/codegemma)\
     Fine-tuned for a variety of coding tasks
   * [DataGemma](https://ai.google.dev/gemma/docs/datagemma)\
     Fine-tuned for using Data Commons to address AI hallucinations
+  * [DiffusionGemma](https://ai.google.dev/gemma/docs/diffusiongemma)\
+    An experimental open model that explores text diffusion, an exceptionally fast approach to text generation.
   * [FunctionGemma](https://ai.google.dev/gemma/docs/functiongemma)\
     Fine-tuned on Gemma 3 270M IT checkpoint for function calling
   * [MedGemma](https://developers.google.com/health-ai-developer-foundations/medgemma)
@@ -39,6 +51,8 @@ Gemma is a family of lightweight, generative artificial intelligence (AI) open m
     Fine-tuned on Gemma 3 4B IT checkpoint for image safety classification
   * [T5Gemma](https://deepmind.google/models/gemma/t5gemma)\
     A collection of encoder-decoder models that provide a strong quality-inference efficiency tradeoff
+  * [TranslateGemma](https://huggingface.co/collections/google/translategemma)\
+    A collection of open model designed to handle translation tasks across 55 languages
   * [TxGemma](https://deepmind.google/models/gemma/txgemma)\
     A collection of open models designed to improve the efficiency of therapeutic development
   * [VaultGemma](https://deepmind.google/models/gemma/vaultgemma)\
@@ -46,17 +60,8 @@ Gemma is a family of lightweight, generative artificial intelligence (AI) open m
 
 You can find the Gemma models on the Hugging Face Hub, Kaggle, Google Cloud Vertex AI Model Garden, and [ai.nvidia.com](https://ai.nvidia.com).
 
-## Table of Notebooks
-* [Gemma](Gemma/README.md)
-* [CodeGemma](CodeGemma/README.md)
-* [FunctionGemma](FunctionGemma/README.md)
-* [PaliGemma](PaliGemma/README.md)
-* [MedGemma](MedGemma/README.md)
+## Additional Resources
 * [MedGemma on Google-Health](https://github.com/Google-Health/medgemma/tree/main/notebooks) : Google-Health has additional notebooks for using MedGemma
-* [TxGemma](TxGemma/README.md)
-* [Workshops and technical talks](Workshops/README.md)
-* [Research](Research/): Notebooks for research focused models
-* [Showcase complex end-to-end use cases](Demos/README.md)
 * [Gemma on Google Cloud](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/open-models) : GCP open models has additional notebooks for using Gemma
 
 ## Get help
